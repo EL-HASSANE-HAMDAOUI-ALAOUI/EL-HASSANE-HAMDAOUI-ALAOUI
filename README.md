@@ -65,8 +65,8 @@
 
 ## 📈 Mes statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomGitHub&show_icons=true&theme=radical" alt="Statistiques GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomGitHub&layout=compact&theme=radical" alt="Langues principales">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/EL-HASSANE-HAMDAOUI-ALAOUI/EL-HASSANE-HAMDAOUI-ALAOUI&show_icons=true&theme=radical" alt="Statistiques GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/EL-HASSANE-HAMDAOUI-ALAOUI/EL-HASSANE-HAMDAOUI-ALAOUI&layout=compact&theme=radical" alt="Langues principales">
 </p>
 
 ---
