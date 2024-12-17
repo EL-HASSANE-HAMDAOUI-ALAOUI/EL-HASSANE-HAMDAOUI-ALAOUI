@@ -74,6 +74,6 @@
 ## 📫 Contactez-moi
 <p align="center">
   <a href="mailto:elhassane.hamdaouialaoui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/el-hassane-hamdaoui-alaoui-ab6a11341/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3Bn2Q9%2FVuhSGm3GtzWFQdL0w%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/EL HASSANE HAMDAOUI ALAOUI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </p>
