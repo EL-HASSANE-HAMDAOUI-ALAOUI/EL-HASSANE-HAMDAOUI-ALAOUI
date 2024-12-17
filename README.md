@@ -68,6 +68,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EL-HASSANE-HAMDAOUI-ALAOUI&show_icons=true&theme=radical" alt="Statistiques GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-HASSANE-HAMDAOUI-ALAOUI&layout=compact&theme=radical" alt="Langues principales">
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VotreNomGitHub&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VotreNomGitHub&show_icons=true&theme=radical)](https://github.com/VotreNomGitHub)
 
 ---
 
